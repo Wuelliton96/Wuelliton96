@@ -7,7 +7,7 @@
     <p> 🚀 - Meu objetivo é me tornar um desenvolvedor fullstack.</p>
     <p> 🌱 - Apaixonado por tecnologia, estou sempre aprendendo novas linguagens e frameworks.</p>
     <p> 🔍 - Busco constantemente desafios que impulsionem meu crescimento como desenvolvedor.</p>
-    <p> 🎯 - Tenho interesse em desenvolvimento web, inteligência artificial, aplicativos móveis e mais.</p>
+    <p> 🎯 - Tenho interesse em desenvolvimento web, inteligência artificial, aplicativos móveis e soluções criativas..</p>
 </div>
 
 
