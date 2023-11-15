@@ -1,11 +1,15 @@
-<h1 align="center">Olá, mundo! Eu sou o Wuelliton Christian, um entusiasta de tecnologia e um eterno aprendiz!👋😊</h1>
+<h1 align="center">Olá visitante! 👋</h1>
+<p align="center">Seja bem-vindo(a) ao meu mundo tecnológico! Espero que encontre inspiração e conhecimento aqui.</p>
+<p align="center">Estou à disposição para trocar ideias e experiências.</p>
+<br></br>
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <p> 💻 - Estudante de engenharia de software.</p>
-    <p> 🚀 - Objetivo: me tornar um desenvolvedor fullstack.</p>
-    <p> 🌱 -  Apaixonado por tecnologia e por aprender novas linguagens e frameworks.</p>
-    <p> 🔍 - Sempre em busca de desafios que me ajudem a crescer como desenvolvedor.</p>
-    <p> 🎯 - Interesses: desenvolvimento web, inteligência artificial, aplicativos móveis e entre outros.</p>
+    <p> 💻 - Seja bem-vindo ao meu perfil! Sou estudante de engenharia de software.</p>
+    <p> 🚀 - Meu objetivo é me tornar um desenvolvedor fullstack.</p>
+    <p> 🌱 - Apaixonado por tecnologia, estou sempre aprendendo novas linguagens e frameworks.</p>
+    <p> 🔍 - Busco constantemente desafios que impulsionem meu crescimento como desenvolvedor.</p>
+    <p> 🎯 - Tenho interesse em desenvolvimento web, inteligência artificial, aplicativos móveis e mais.</p>
 </div>
+
 
 
 
@@ -57,7 +61,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Wuelliton96&show_icons=true&theme=dark&hide_border=true&bg_color=161b22" width="55%" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuelliton96&layout=compact&theme=dark&hide_border=true&bg_color=161b22" width="42%">
 </div>
-
-
-
-
