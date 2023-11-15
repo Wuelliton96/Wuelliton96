@@ -7,7 +7,7 @@
     <p> 🚀 - Meu objetivo é me tornar um desenvolvedor fullstack.</p>
     <p> 🌱 - Apaixonado por tecnologia, estou sempre aprendendo novas linguagens e frameworks.</p>
     <p> 🔍 - Busco constantemente desafios que impulsionem meu crescimento como desenvolvedor.</p>
-    <p> 🎯 - Tenho interesse em desenvolvimento web, inteligência artificial, aplicativos móveis e soluções criativas..</p>
+    <p> 🎯 - Tenho interesse em desenvolvimento web, inteligência artificial, aplicativos móveis e soluções criativas.</p>
 </div>
 
 
@@ -22,6 +22,12 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+
+
 </div>
 
 
