@@ -1,4 +1,4 @@
-<h1 align="center">Olá visitante! 👋</h1>
+<h1 align="center">Olá coliguinha! tudo bem? 👋</h1>
 <p align="center">Seja bem-vindo(a) ao meu mundo tecnológico! Espero que encontre inspiração e conhecimento aqui.</p>
 <p align="center">Estou à disposição para trocar ideias e experiências.</p>
 <br></br>
