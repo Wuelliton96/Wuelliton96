@@ -3,7 +3,7 @@
 <p align="center">Estou à disposição para trocar ideias e experiências.</p>
 <br></br>
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <p> 💻 - Seja bem-vindo ao meu perfil! Sou estudante de engenharia de software.</p>
+    <p> 💻 - Sou estudante de engenharia de software.</p>
     <p> 🚀 - Meu objetivo é me tornar um desenvolvedor fullstack.</p>
     <p> 🌱 - Apaixonado por tecnologia, estou sempre aprendendo novas linguagens e frameworks.</p>
     <p> 🔍 - Busco constantemente desafios que impulsionem meu crescimento como desenvolvedor.</p>
